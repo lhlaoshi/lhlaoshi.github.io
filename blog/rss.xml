@@ -4,10 +4,20 @@
         <title>LH老师 Blog</title>
         <link>https://lhlaoshi.github.io/blog</link>
         <description>LH老师 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[高兴事]]></title>
+            <link>https://lhlaoshi.github.io/blog/happy</link>
+            <guid>happy</guid>
+            <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天天气真不错，我们一起来上课，真的很不错哦]]></description>
+            <content:encoded><![CDATA[<p>今天天气真不错，我们一起来上课，真的很不错哦</p>]]></content:encoded>
+            <category>随笔</category>
+            <category>诗词，LH</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://lhlaoshi.github.io/blog/welcome</link>
